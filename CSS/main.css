@@ -1,0 +1,17 @@
+
+/* General style */
+*{
+    padding:0;
+    border:0;
+    box-sizing:border-box;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+html{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+/* page style */
+.img-carousel{
+    width:100% !important;
+    height:600px !important;
+}
+
